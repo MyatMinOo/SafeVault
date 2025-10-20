@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|c:\\users\\myatmin\\source\\repos\\safevault\\testinputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|solutionrelative:testinputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|c:\\users\\myatmin\\source\\repos\\safevault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|c:\\users\\myatmin\\source\\repos\\safevault\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|solutionrelative:database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|c:\\users\\myatmin\\source\\repos\\safevault\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|solutionrelative:services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|c:\\users\\myatmin\\source\\repos\\safevault\\services\\inputsanitizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|solutionrelative:services\\inputsanitizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|c:\\users\\myatmin\\source\\repos\\safevault\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|solutionrelative:models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|c:\\users\\myatmin\\source\\repos\\safevault\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{294F7795-6F84-41D8-8011-E2BB2AE08952}|SafeVault.csproj|solutionrelative:database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 270,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "database.sql ",
+              "DocumentMoniker": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\database.sql",
+              "RelativeDocumentMoniker": "database.sql",
+              "ToolTip": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\database.sql",
+              "RelativeToolTip": "database.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-20T15:58:50.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:51:53.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestInputValidation.cs",
+              "DocumentMoniker": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\TestInputValidation.cs",
+              "RelativeDocumentMoniker": "TestInputValidation.cs",
+              "ToolTip": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\TestInputValidation.cs",
+              "RelativeToolTip": "TestInputValidation.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:42:06.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\Services\\UserRepository.cs",
+              "RelativeToolTip": "Services\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:41:42.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputSanitizer.cs",
+              "DocumentMoniker": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\Services\\InputSanitizer.cs",
+              "RelativeDocumentMoniker": "Services\\InputSanitizer.cs",
+              "ToolTip": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\Services\\InputSanitizer.cs",
+              "RelativeToolTip": "Services\\InputSanitizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:41:25.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\Models\\UserDto.cs",
+              "RelativeToolTip": "Models\\UserDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:41:11.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

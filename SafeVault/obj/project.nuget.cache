@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e+2pszx8QiM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\SafeVault.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MyatMin\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.10\\microsoft.data.sqlite.core.9.0.10.nupkg.sha512",
+    "C:\\Users\\MyatMin\\.nuget\\packages\\nunit\\4.4.0\\nunit.4.4.0.nupkg.sha512",
+    "C:\\Users\\MyatMin\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\MyatMin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
