@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\SafeVault.csproj": {}
+    "C:\\MMO\\SafeVault\\SafeVault\\SafeVault.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\SafeVault.csproj": {
+    "C:\\MMO\\SafeVault\\SafeVault\\SafeVault.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\SafeVault.csproj",
+        "projectUniqueName": "C:\\MMO\\SafeVault\\SafeVault\\SafeVault.csproj",
         "projectName": "SafeVault",
-        "projectPath": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\SafeVault.csproj",
+        "projectPath": "C:\\MMO\\SafeVault\\SafeVault\\SafeVault.csproj",
         "packagesPath": "C:\\Users\\MyatMin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MyatMin\\source\\repos\\SafeVault\\obj\\",
+        "outputPath": "C:\\MMO\\SafeVault\\SafeVault\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MyatMin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "Microsoft.Data.Sqlite.Core": {
               "target": "Package",
               "version": "[9.0.10, )"

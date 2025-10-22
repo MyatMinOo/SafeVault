@@ -14,6 +14,8 @@ builder.Services.AddEndpointsApiExplorer();
 
 var app = builder.Build();
 
+var sessions = new Dictionary<string, string>(); // token => role
+
 app.MapPost("/submit", async (UserDto user, InputSanitizer sanitizer, UserRepository repo) =>
 {
     // Server-side validation using DataAnnotations
@@ -31,6 +33,28 @@ app.MapPost("/submit", async (UserDto user, InputSanitizer sanitizer, UserReposi
     // Save safely (parameterized)
     var userId = await repo.InsertUserAsync(user);
     return Results.Ok(new { UserId = userId });
+});
+
+app.MapPost("/login", async (UserAuthService auth, string username, string password) =>
+{
+    bool valid = await auth.AuthenticateUserAsync(username, password);
+    if (!valid) return Results.Unauthorized();
+
+    var user = await auth._repo.GetUserByUsernameAsync(username);
+    string token = Guid.NewGuid().ToString();
+    sessions[token] = user?.Role ?? "user";
+    return Results.Ok(new { Token = token, Role = user?.Role });
+});
+
+app.MapGet("/admin", (HttpContext context) =>
+{
+    if (!context.Request.Headers.TryGetValue("Authorization", out var token))
+        return Results.Unauthorized();
+
+    if (!sessions.TryGetValue(token!, out var role) || role != "admin")
+        return Results.Forbid();
+
+    return Results.Ok("Welcome, Admin!");
 });
 
 app.Run();
